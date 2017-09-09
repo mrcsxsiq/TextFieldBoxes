@@ -39,7 +39,7 @@
         <studio.carbonylgroup.textfieldboxes.TextFieldBoxes
             android:id="@+id/text_field_boxes1"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="200dp"
             app:hint="Title"
             app:maxCharacters="20"
             app:text="Vintage 50's Dress" />
